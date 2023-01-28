@@ -1,6 +1,5 @@
-### Hi there 👋
-
-
+<!-- ### Hi there 👋
+ -->
 ## :wave: Hey Folks, Ashok Here :hugs:	
 
 
@@ -56,21 +55,8 @@ I am Interesed in Software Development and Data Science. :gem:
 ## :handshake:	Connect with me
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/anand-kumar007)] -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/anand-kumar-620aa41b0)
-  
-<!--  ### My Stats :crystal_ball:
- ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-kumar007&theme=cobalt&show_icons=true) -->
- 
-<!--  ### My Work On Github :octocat:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kumar007)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
 
-
-<!-- 
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
 
 <!-- 
 **ashok-2001/ashok-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
