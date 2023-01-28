@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋
  -->
+ ![Header](https://github.com/ashok-2001/ashok-2001/blob/main/github-header-image.png)
 ## :wave: Hey Folks, Ashok Here :hugs:	
 
 
