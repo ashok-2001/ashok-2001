@@ -55,7 +55,7 @@ I am Interesed in Software Development and Data Science. :gem:
 
 ## :handshake:	Connect with me
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/anand-kumar007)] -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/anand-kumar-620aa41b0)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ashok-kumar-8a5396190)
 
 
 
