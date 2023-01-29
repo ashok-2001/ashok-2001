@@ -4,7 +4,7 @@
 ## :wave: Hey Folks, Ashok Here :hugs:	
 
 
-##### Software Developer and Tech Enthusiast 
+##### Software Developer and AI Enthusiast 
 ## :writing_hand: About me
 Hey there ! welcome to my profile. 
 
