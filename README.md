@@ -53,7 +53,7 @@ I am Interesed in Software Development and Data Science. :gem:
  
  <img src="https://img.utdstc.com/icon/01b/c95/01bc951a06396a51af6e0109340f3a405b680734c00464b5daced29ec0ba5eff:100" alt="Linux" height="40" style="vertical-align:top; margin:4px">
  
- <img src="https://www.google.com/search?q=ubuntu&sxsrf=AJOqlzUAMtFSQC0t1RBFPDrjoPwcfLim9w:1675222026764&tbm=isch&source=iu&ictx=1&vet=1&fir=g2LZLHpVPJMdiM%252Cj_9K_QdzoAZjdM%252C%252Fm%252F03x5qm%253B8Uy649mSqIc7uM%252CNS7rlw9bPTLt0M%252C_%253BH0MFU-YoW0GmeM%252CzcHuEgn2jVCmdM%252C_%253BWEyUfgSy4YooCM%252CzcHuEgn2jVCmdM%252C_%253B_FY8rCM5v3ZdtM%252C8gQzB8dXepZ9wM%252C_&usg=AI4_-kRox5UxQlQaM6Vx03HzhH81aXZp5g&sa=X&ved=2ahUKEwjJ0MyusPP8AhUKXGwGHU6iCI8Q_B16BAhaEAE#imgrc=g2LZLHpVPJMdiM" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://assets.ubuntu.com/v1/82818827-CoF_white.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
  
 </p>
 
