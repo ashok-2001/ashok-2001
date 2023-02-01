@@ -47,6 +47,8 @@ I am Interesed in Software Development and Data Science. :gem:
  
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  
+  <img src="https://www.codeblocks.org/images/logo160.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
  
 </p>
