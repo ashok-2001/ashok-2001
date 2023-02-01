@@ -53,7 +53,7 @@ I am Interesed in Software Development and Data Science. :gem:
  
  <img src="https://img.utdstc.com/icon/01b/c95/01bc951a06396a51af6e0109340f3a405b680734c00464b5daced29ec0ba5eff:100" alt="Linux" height="40" style="vertical-align:top; margin:4px">
  
- <img src="https://assets.ubuntu.com/v1/82818827-CoF_white.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ubuntu_and_Ubuntu_Server_Icon.png/48px-Ubuntu_and_Ubuntu_Server_Icon.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
  
 </p>
 
