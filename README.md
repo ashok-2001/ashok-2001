@@ -52,7 +52,7 @@ I am Interesed in Software Development and Data Science. :gem:
 </p>
 
 ## :handshake:	Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ashok-kumar-8a5396190)
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/ashok-kumar-8a5396190)
 
 
 
