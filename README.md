@@ -28,8 +28,8 @@ I am Interesed in Software Development and Data Science. :gem:
 
 
 ## :aerial_tramway: Hobbies
-* 👽 Video Editing <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/120px-DaVinci_Resolve_17_logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px"> <img src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-* 🕸️ Poster Making <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/120px-DaVinci_Resolve_17_logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px"> <img src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
+* 👽 Video Editing <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/120px-DaVinci_Resolve_17_logo.svg.png" alt="C++" height="20" style="vertical-align:top; margin:4px"> <img src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg" alt="C++" height="20" style="vertical-align:top; margin:4px">
+* 🕸️ Poster Making <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/120px-DaVinci_Resolve_17_logo.svg.png" alt="C++" height="20" style="vertical-align:top; margin:4px"> <img src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg" alt="C++" height="20" style="vertical-align:top; margin:4px">
 * 🌀 Reading Scriptures
 
 
