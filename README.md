@@ -17,14 +17,16 @@ I am Interesed in Software Development and Data Science. :gem:
 
 ## :aerial_tramway: Top SKILLS
 * 👽 Programming Languages (C,C++,Python)
+
+* ⚖️ Data Structure and Algorithms
+* 🉑 Operating System and DBMS
+* 
 * 🕸️ Front End (Tkinter)
 * 🌀 Backend (Python)
 * 🐼 Data Science (DataViz and Analysis)
 * :robot: Machine learning and Deep Learning
 * 🆑 Linux (Shell scripts)
 
-* ⚖️ Data Structure and Algorithms
-* 🉑 Operating System and DBMS
 
 
 ## :aerial_tramway: Hobbies
