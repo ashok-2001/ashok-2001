@@ -20,7 +20,6 @@ I am Interesed in Software Development and Data Science. :gem:
 
 * ⚖️ Data Structure and Algorithms
 * 🉑 Operating System and DBMS
-* 
 * 🕸️ Front End (Tkinter)
 * 🌀 Backend (Python)
 * 🐼 Data Science (DataViz and Analysis)
